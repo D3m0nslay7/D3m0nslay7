@@ -1,8 +1,8 @@
-<b><h2> Umer Mohammed - Cybersecurity Student</h2></b>
+<b><h1> Umer Mohammed - Cybersecurity Student</h1></b>
 About me
-## Software Development Projects
+<h2>Software Development Projects</h2>
 
-# University Portoflios
+<h3>University Portoflios</h3>
 ArrayLists
 HashMaps
 Searching/Sorting
@@ -10,6 +10,6 @@ Test Driven Development
 Java Inheritance
 User Interfaces
 
-## CyberSecurity Projects
+<h2>CyberSecurity Projects</h2>
 
-## Hobby Projects
+<h2>Hobby Projects</h2>
