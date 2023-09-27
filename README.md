@@ -22,3 +22,6 @@ About me
     - [Personal Professional Website](https://github.com/D3m0nslay7/ProfessionalWebsite)
   - <b>Coding Projects</b>
     - [Hospitality Data Interface](https://github.com/D3m0nslay7/HospitalityDataUpdater)
+    - [Passwords Application](https://github.com/D3m0nslay7/PasswordsApp)
+    - [Simple Coding Challenges](https://github.com/D3m0nslay7/SimpleCodingChallenges)
+    - [Simple Item Sorter](https://github.com/D3m0nslay7/ItemSorter)
