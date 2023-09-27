@@ -1,4 +1,4 @@
-**# Umer Mohammed - Cybersecurity Student**
+<b><h2> Umer Mohammed - Cybersecurity Student</h2></b>
 About me
 ## Software Development Projects
 
