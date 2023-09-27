@@ -6,12 +6,10 @@ About me
 
   - <b>Portfolios done in Processing</b>
     - [ArrayLists](https://github.com/D3m0nslay7/University-ArrayLists)
-    - [HashMaps]()
-    - [Searching/Sorting]()
-    - [Test Driven Development]()
-    - [Java Inheritance]()
-    - [User Interfaces]()
-    - [File I/O and Test Design]()
+    - [HashMaps](https://github.com/D3m0nslay7/University-HashMaps)
+    - [Test Driven Development](https://github.com/D3m0nslay7/University-TestDrivenDevelopment)
+    - [Java Inheritance](https://github.com/D3m0nslay7/University-JavaInheritance)
+    - [User Interfaces](https://github.com/D3m0nslay7/University-GraphicalUserDesign)
 
 <h2>CyberSecurity Projects</h2>
 
